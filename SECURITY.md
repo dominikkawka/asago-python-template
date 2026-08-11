@@ -1,6 +1,6 @@
 # **Reporting a Security Vulnerability or Incident**
 
-Please do not report security vulnerabilities or security incidents via public channels (such as GitHub Issues or Pull Requests, GitLab Merge Requests). To ensure coordinated disclosure, submit your findings to the [GitHub Advisory Page](https://github.com/asago-ai/asago-python-template/security/advisories/new).
+Please do not report security vulnerabilities or security incidents via public channels (such as GitHub Issues or Pull Requests, GitLab Merge Requests). To ensure coordinated disclosure, submit your findings to the [GitHub Advisory Page](https://github.com/asago-ai/asago-repo-template/security/advisories/new).
 
 ## **Submission Guidelines**
 
@@ -25,7 +25,7 @@ Our goal is to assess the report, coordinate fix and disclosure as quickly as po
 
 Direct all security questions and vulnerability reports to:
 
-- [GitHub Advisory Page](https://github.com/asago-ai/asago-python-template/security/advisories/new)
+- [GitHub Advisory Page](https://github.com/asago-ai/asago-repo-template/security/advisories/new)
 - `<!-- optional -->` **Email**:
 - `<!-- optional -->` **GPG key ID**:
 
