@@ -89,4 +89,4 @@ There are multiple ways one can contribute to our project!
 
 ## Communications
 
-You can join our Slack workspace to communicate with project maintainers, contributors, and users.
+You can join our [Slack](https://red.ht/asago-slack) workspace to communicate with project maintainers, contributors, and users.
